@@ -1,0 +1,16 @@
+/*CSS externe du html*/
+body{
+    font-family: "Helvetica Neue";
+    text-align: center;/*Aligne le texte au centre*/
+}
+
+h1{
+    color : darkBlue;
+}
+
+img {
+    border-radius: 10px; /*Défini un arrondi de bordure visible sur 10 pixels*/
+    margin-top: 8px;/*Défini une marge supérieure sur 8 pixels*/
+    margin-left: 2px;/*Défini une marge gauche de 2 pixels*/
+    margin-right: 2px;/*Défini une marge droite sur 2 pixels*/
+}
