@@ -1,0 +1,9 @@
+.flat {
+    height: 50px; /*hauteur*/
+    width: 100px; /*largeur*/
+}/*Cherche tout les éléments de classe flat*/
+
+.round {
+    height: 100px;
+    width: 100px;
+}/*Cherche tout les éléments de classe flat*/
