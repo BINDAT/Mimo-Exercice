@@ -1,0 +1,9 @@
+.medium {
+    width: 300px;
+    background-color: red;
+}
+
+.small {
+    width: 150;
+    background-color: pink;
+}
