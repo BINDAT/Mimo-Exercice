@@ -1,0 +1,13 @@
+img {
+    padding: 0px 40px 0px 100px; /*Ici tout les réglages des paddings sont présent 
+    en un le premier correspond à haut le second à droite le troisième en bas et le quatrième à gauche*/
+    border: solid 2px gray;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+body {
+    background-color:  azure;
+    text-align: center;
+}
