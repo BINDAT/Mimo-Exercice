@@ -1,0 +1,10 @@
+img {
+    border-radius: 0 20px 0 20px;
+    width: 75px;
+    height: 75px;
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+}
