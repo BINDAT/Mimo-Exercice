@@ -1,0 +1,9 @@
+img {
+    border-radius: 10px;
+}
+
+.title {
+    background-color: lemonchiffon;
+    border: solid darkcyan;
+    width: 300px;
+}
