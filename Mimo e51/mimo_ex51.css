@@ -1,0 +1,14 @@
+h3 {
+    padding: 0 0 100px 0;
+    font-style: italic;
+    background-color: lightskyblue;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
