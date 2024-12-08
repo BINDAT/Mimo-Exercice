@@ -1,0 +1,17 @@
+button {
+    margin: 0 15px 0 15px;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: solid 5px dimgray;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    margin: 30px 0 0 0;
+    font-size: 8px;
+}
